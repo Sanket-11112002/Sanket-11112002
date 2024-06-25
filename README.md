@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket-11112002&label=Profile%20views&color=0e75b6&style=flat" alt="sanket-11112002" /> </p>
 
-- 🌱 I’m currently learning **C,C++,Java Programming language & MySQL Database**
+- 🌱  **C,C++,Java,C# Programming language & MySQL Database, .NET core**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sanket-11112002](https://github.com/Sanket-11112002)
 
